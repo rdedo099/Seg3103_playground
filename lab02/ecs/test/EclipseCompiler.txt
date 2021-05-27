@@ -1,0 +1,707 @@
+26 May 2021 23:03:00 GMT: Log 'EclipseCompiler.txt' opened: 26 May 2021 23:03:00 GMT with name C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\EclipseCompiler.txt
+27 May 2021 2:49:57 GMT: diagnostics = javax.tools.DiagnosticCollector@521db3f3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@184d6039
+fileObjects = [C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java, C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java, C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateExceptionTest.java, C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java, C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java]
+27 May 2021 2:49:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@960b131' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test;C:\Users\Riley\Downloads\drjava-beta-20160913-225446.exe]
+27 May 2021 2:49:58 GMT: Compiler call returned
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@598d7ef3
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 7 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@345537a5
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 12 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@69dad3a
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 18 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5624eb34
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 27 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@369b697d
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 35 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2bee8814
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 43 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4071042e
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 49 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@317d3a5f
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 62 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5cc06d8c
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 77 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@331e028
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 88 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4ba9c414
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 99 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13deb0fc
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 110 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4c2d1306
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 119 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40918a0b
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 133 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@459d7f69
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 139 ColNo = 40 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@23227e76
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java LineNo = 10 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b3fc37
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 5 ColNo = 2 Msg = 'RunWith cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b3eff18
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 5 ColNo = 11 Msg = 'Parameterized cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65f6b721
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 11 ColNo = 28 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5597a427
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 11 ColNo = 36 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4ddda8e6
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 18 ColNo = 2 Msg = 'Parameterized cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7127487a
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 19 ColNo = 16 Msg = 'Collection cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@21b8a6c0
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 27 ColNo = 3 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4966884c
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 34 ColNo = 10 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@69dc831e
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 24 ColNo = 10 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@227372c7
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 29 ColNo = 10 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46194eef
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 54 ColNo = 3 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b408a88
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 54 ColNo = 22 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@36093a8d
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 55 ColNo = 3 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fd583c1
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 55 ColNo = 23 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@337cae2
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 56 ColNo = 3 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c1c14c6
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 56 ColNo = 29 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@433e9c9a
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 100 ColNo = 3 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60d6c4b7
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 100 ColNo = 19 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d0b6295
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 100 ColNo = 31 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16df7d6
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 101 ColNo = 23 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3680712d
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 31 ColNo = 7 Msg = 'Lambda expressions are allowed only at source level 1.8 or above'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6025e836
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 39 ColNo = 7 Msg = 'Lambda expressions are allowed only at source level 1.8 or above'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@663c216d
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 1 ColNo = 15 Msg = 'The import org.junit.jupiter cannot be resolved'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@801a93b
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 3 ColNo = 8 Msg = 'The import org.junit.jupiter cannot be resolved'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3dbdb80f
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 9 ColNo = 24 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@721693d6
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 14 ColNo = 21 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7526e3b0
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 15 ColNo = 21 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@706bd45e
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 20 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2046679c
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 20 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6608c861
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 21 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24718c73
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 21 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a967587
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 22 ColNo = 21 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19ff99ce
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 22 ColNo = 4 Msg = 'The method assertBit(int, Bit) from the type BitTest refers to the missing type Bit'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@39140150
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 23 ColNo = 21 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@112e0015
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 23 ColNo = 4 Msg = 'The method assertBit(int, Bit) from the type BitTest refers to the missing type Bit'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@282d75fa
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 24 ColNo = 26 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4d79a8d8
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 29 ColNo = 5 Msg = 'The method assertThrows(java.lang.Class<java.lang.IllegalArgumentException>, () -> new Bit((- 1))) is undefined for the type BitTest'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@54fe3ea6
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 37 ColNo = 5 Msg = 'The method assertThrows(java.lang.Class<java.lang.IllegalArgumentException>, () -> new Bit(2)) is undefined for the type BitTest'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@35b1a284
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 45 ColNo = 25 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7670936d
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 46 ColNo = 25 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@76cfda13
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 51 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@53e1d162
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 51 ColNo = 16 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b7cfc18
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 64 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19e5e1e1
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 66 ColNo = 12 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11f2bf8c
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 71 ColNo = 12 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4cc51611
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 79 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40d5bfad
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 79 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7609a4bf
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 80 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72836b2d
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 80 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16928ef2
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 90 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7bd7735a
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 90 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40400cc3
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 91 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29f3cde5
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 91 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2b942337
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 101 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b19c8bc
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 101 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2bffe708
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 102 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c549b77
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 102 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16538e51
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 112 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@332ae80f
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 112 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@67399ec5
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 113 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5f0e3e76
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 113 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@552502c0
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 121 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@31abe2fb
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 121 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1acf9dbd
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 122 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@349cfd1c
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 122 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4952ca4d
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 123 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@278055a6
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 123 ColNo = 21 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4144169e
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 124 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12e377b7
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 124 ColNo = 21 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4dbcc704
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 135 ColNo = 27 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@68349670
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 136 ColNo = 27 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9a58d0e
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java LineNo = 1 ColNo = 15 Msg = 'The import org.junit.jupiter cannot be resolved'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@721d42
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java LineNo = 3 ColNo = 8 Msg = 'The import org.junit.jupiter cannot be resolved'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2bdd6eaf
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java LineNo = 13 ColNo = 5 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6796eab2
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java LineNo = 13 ColNo = 18 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@427ed6b3
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java LineNo = 14 ColNo = 22 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@52f64bb3
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java LineNo = 20 ColNo = 31 Msg = 'The method wasSuccesful() is undefined for the type org.junit.runner.Result'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@121eff54
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 21 ColNo = 58 Msg = 'Syntax error on token ";", , expected'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@420d44df
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 21 ColNo = 75 Msg = 'Syntax error, insert "}" to complete ArrayInitializer'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7672d963
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 21 ColNo = 75 Msg = 'Syntax error, insert ")" to complete Expression'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1639afcd
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 21 ColNo = 110 Msg = 'Syntax error, insert ";" to complete Statement'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73380601
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 22 ColNo = 20 Msg = 'Syntax error, insert ";" to complete Statement'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5bbb9f05
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 22 ColNo = 56 Msg = 'Syntax error, insert ";" to complete Statement'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3be2fcd0
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 22 ColNo = 92 Msg = 'Syntax error, insert ";" to complete Statement'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60fe7ba6
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 22 ColNo = 128 Msg = 'Syntax error, insert ";" to complete Statement'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@534571b6
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 22 ColNo = 135 Msg = 'Syntax error on token "{", delete this token'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@54019f6c
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 23 ColNo = 21 Msg = 'Syntax error on token "}", delete this token'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7829fd40
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 23 ColNo = 56 Msg = 'Syntax error, insert ";" to complete Statement'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b998aa8
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 23 ColNo = 75 Msg = 'Syntax error on token ";", this expected after this token'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13a98eac
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 23 ColNo = 87 Msg = 'Syntax error on token "}", delete this token'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b8b994a
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 23 ColNo = 122 Msg = 'Syntax error, insert ";" to complete Statement'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7cffae86
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 23 ColNo = 158 Msg = 'Syntax error, insert ";" to complete Statement'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5b94b77b
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 24 ColNo = 38 Msg = 'Syntax error, insert ";" to complete Statement'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4978e4b
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 24 ColNo = 74 Msg = 'Syntax error, insert ";" to complete Statement'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13c1165a
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 24 ColNo = 110 Msg = 'Syntax error, insert ";" to complete Statement'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@124b113a
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 24 ColNo = 146 Msg = 'Syntax error, insert ";" to complete Statement'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c9a4367
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 1 ColNo = 15 Msg = 'The import org.junit.jupiter cannot be resolved'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@54477d69
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 3 ColNo = 8 Msg = 'The import org.junit.jupiter cannot be resolved'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4fafc27d
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 8 ColNo = 9 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a7d873
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 9 ColNo = 9 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b9822db
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 14 ColNo = 3 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@545bacf4
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 15 ColNo = 3 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65562028
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 30 ColNo = 67 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5e0908b1
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 30 ColNo = 102 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24fd7751
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 31 ColNo = 3 Msg = 'Assert cannot be resolved'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2dc84336
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 31 ColNo = 23 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:49:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@794b71c7
+27 May 2021 2:49:58 GMT:  Kind = ERROR
+27 May 2021 2:49:58 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 31 ColNo = 39 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: diagnostics = javax.tools.DiagnosticCollector@48d586f3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7cf201ae
+fileObjects = [C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java, C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java, C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateExceptionTest.java, C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java, C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java]
+27 May 2021 2:51:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d54a9c1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test;C:\Users\Riley\Downloads\drjava-beta-20160913-225446.exe]
+27 May 2021 2:51:04 GMT: Compiler call returned
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40e04a58
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 7 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@171bff77
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 12 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43ff3444
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 18 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c774b40
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 27 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e07781c
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 35 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@562fccec
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 43 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c488f79
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 49 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a83e4fb
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 62 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2fe1aa2f
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 77 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7814b93
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 88 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2f9a3f5d
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 99 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3aaba269
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 110 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1839d7c1
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 119 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15e9ca86
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 133 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b776fb1
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 139 ColNo = 40 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c28305c
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java LineNo = 10 ColNo = 4 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5af979c7
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 5 ColNo = 2 Msg = 'RunWith cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19f25e4
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 5 ColNo = 11 Msg = 'Parameterized cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5145c881
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 11 ColNo = 28 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c22a825
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 11 ColNo = 36 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d04dd27
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 18 ColNo = 2 Msg = 'Parameterized cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@754c6966
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 19 ColNo = 16 Msg = 'Collection cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ab2b68e
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 27 ColNo = 3 Msg = 'Test cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3d8547d
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 34 ColNo = 10 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@281e5cc4
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 24 ColNo = 10 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3e8f07f8
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 29 ColNo = 10 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2116d061
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 54 ColNo = 3 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60ac1382
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 54 ColNo = 22 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3a8e8b2f
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 55 ColNo = 3 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7cf8fb41
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 55 ColNo = 23 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6bfaa967
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 56 ColNo = 3 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b4a9799
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 56 ColNo = 29 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@25d3ae2c
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 100 ColNo = 3 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1eca6b24
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 100 ColNo = 19 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@20c5580b
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 100 ColNo = 31 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f8cf5d5
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitAndTest.java LineNo = 101 ColNo = 23 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27168ac6
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 31 ColNo = 7 Msg = 'Lambda expressions are allowed only at source level 1.8 or above'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6a48464b
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 39 ColNo = 7 Msg = 'Lambda expressions are allowed only at source level 1.8 or above'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60474e09
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 1 ColNo = 15 Msg = 'The import org.junit.jupiter cannot be resolved'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@189d3d89
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 3 ColNo = 8 Msg = 'The import org.junit.jupiter cannot be resolved'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bced4e6
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 9 ColNo = 24 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@239ca1ca
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 14 ColNo = 21 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@79f184b6
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 15 ColNo = 21 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8f19f74
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 20 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@75650368
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 20 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@33b16eff
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 21 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4610880b
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 21 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@421eb582
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 22 ColNo = 21 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f3d80ea
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 22 ColNo = 4 Msg = 'The method assertBit(int, Bit) from the type BitTest refers to the missing type Bit'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2743d364
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 23 ColNo = 21 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65d14757
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 23 ColNo = 4 Msg = 'The method assertBit(int, Bit) from the type BitTest refers to the missing type Bit'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@52d45cca
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 24 ColNo = 26 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@211dacaa
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 29 ColNo = 5 Msg = 'The method assertThrows(java.lang.Class<java.lang.IllegalArgumentException>, () -> new Bit((- 1))) is undefined for the type BitTest'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@187c831e
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 37 ColNo = 5 Msg = 'The method assertThrows(java.lang.Class<java.lang.IllegalArgumentException>, () -> new Bit(2)) is undefined for the type BitTest'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@777884b9
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 45 ColNo = 25 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73ab490
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 46 ColNo = 25 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b8e3021
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 51 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@37963e3d
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 51 ColNo = 16 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@478393a
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 64 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56349311
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 66 ColNo = 12 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c81bece
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 71 ColNo = 12 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ae002b5
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 79 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2f94573a
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 79 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d4af5c2
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 80 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c5c576b
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 80 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56c31fff
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 90 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5be3af9a
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 90 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@518db5c1
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 91 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f345794
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 91 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@41c68d6a
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 101 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@79f75b7
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 101 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b80eb38
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 102 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16a5932b
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 102 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@63fdf148
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 112 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f33024d
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 112 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@23d6e3b8
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 113 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19500022
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 113 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15abc5f1
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 121 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@128d9c63
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 121 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65266a9
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 122 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f9a3751
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 122 ColNo = 17 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@54d5fd1e
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 123 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a450d63
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 123 ColNo = 21 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3f3741ac
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 124 ColNo = 4 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@71d9d9a4
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 124 ColNo = 21 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a9ff78c
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 135 ColNo = 27 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8b3dda9
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\BitTest.java LineNo = 136 ColNo = 27 Msg = 'Bit cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d0cd732
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java LineNo = 1 ColNo = 15 Msg = 'The import org.junit.jupiter cannot be resolved'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@32273bce
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java LineNo = 3 ColNo = 8 Msg = 'The import org.junit.jupiter cannot be resolved'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@47718991
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java LineNo = 13 ColNo = 5 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51394a43
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java LineNo = 13 ColNo = 18 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3ae7b211
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java LineNo = 14 ColNo = 22 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@311507c8
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateTest.java LineNo = 20 ColNo = 31 Msg = 'The method wasSuccesful() is undefined for the type org.junit.runner.Result'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ae33d7a
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 22 ColNo = 135 Msg = 'Syntax error on token "{", delete this token'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@61131b37
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 23 ColNo = 21 Msg = 'Syntax error on token "}", delete this token'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@66635a3e
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 23 ColNo = 75 Msg = 'Syntax error on token ",", Name expected after this token'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7fd13a7d
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 24 ColNo = 148 Msg = 'Syntax error, insert ")" to complete Expression'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c3ac010
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 24 ColNo = 148 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6509aa03
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 1 ColNo = 15 Msg = 'The import org.junit.jupiter cannot be resolved'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19c7ae36
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 3 ColNo = 8 Msg = 'The import org.junit.jupiter cannot be resolved'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6fb36da1
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 8 ColNo = 9 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@25430a07
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 9 ColNo = 9 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@db2e51e
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 14 ColNo = 3 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29a05c80
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 15 ColNo = 3 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d0ae270
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 30 ColNo = 67 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6024c8e4
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 30 ColNo = 102 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7aa44beb
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 31 ColNo = 3 Msg = 'Assert cannot be resolved'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51cb5c63
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 31 ColNo = 23 Msg = 'Date cannot be resolved to a type'
+27 May 2021 2:51:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5bd82d48
+27 May 2021 2:51:04 GMT:  Kind = ERROR
+27 May 2021 2:51:04 GMT: Name = C:\Users\Riley\Documents\GitHub\Seg3103_playground\lab02\ecs\test\DateNextDateOkTest.java LineNo = 31 ColNo = 39 Msg = 'Date cannot be resolved to a type'
