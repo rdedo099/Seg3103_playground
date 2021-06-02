@@ -110,7 +110,14 @@ class DateTest {
   }
 
   @Test
-  void nextDate_invalid_tc16() {
+  void nextDate_tc16() {
+    Date today = new Date(2000, 2, 28);
+    Date expectedTomorrow = new Date(2000, 2, 29);
+    assertEquals(expectedTomorrow, today.nextDate());
+  }
+  
+  @Test
+  void nextDate_invalid_tc17() {
     assertThrows(
       IllegalArgumentException.class,
       () -> new Date(1500, 2, 31)
@@ -118,7 +125,7 @@ class DateTest {
   }
 
   @Test
-  void nextDate_invalid_tc17() {
+  void nextDate_invalid_tc18() {
     assertThrows(
       IllegalArgumentException.class,
       () -> new Date(1500, 2, 29)
@@ -126,7 +133,7 @@ class DateTest {
   }
 
   @Test
-  void nextDate_invalid_tc18() {
+  void nextDate_invalid_tc19() {
     assertThrows(
       IllegalArgumentException.class,
       () -> new Date(-1, 10, 20)
@@ -134,7 +141,7 @@ class DateTest {
   }
 
   @Test
-  void nextDate_invalid_tc19() {
+  void nextDate_invalid_tc20() {
     assertThrows(
       IllegalArgumentException.class,
       () -> new Date(1458, 15, 12)
@@ -142,11 +149,40 @@ class DateTest {
   }
 
   @Test
-  void nextDate_invalid_tc20() {
+  void nextDate_invalid_tc21() {
     assertThrows(
       IllegalArgumentException.class,
       () -> new Date(1975, 6, -50)
     );
+  }
+  
+  @Test
+  void nextDate_invalid_tc22() {
+    assertThrows(
+      IllegalArgumentException.class,
+      () -> new Date(4, 0, 11)
+    );
+  }
+  
+  @Test
+  void nextDate_invalid_tc23() {
+    assertThrows(
+      IllegalArgumentException.class,
+      () -> new Date(4, 10, 0)
+    );
+  }
+  
+  @Test
+  void nextDate_tc24() {
+    Date today = new Date(0, 12, 31);
+    Date expectedTomorrow = new Date(1, 1, 1);
+    assertEquals(expectedTomorrow, today.nextDate());
+  }
+  @Test
+  void nextDate_tc25() {
+    Date today = new Date(500000, 12, 31);
+    Date expectedTomorrow = new Date(500001, 1, 1);
+    assertEquals(expectedTomorrow, today.nextDate());
   }
 
 }
