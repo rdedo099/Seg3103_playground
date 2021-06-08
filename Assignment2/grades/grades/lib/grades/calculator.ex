@@ -8,11 +8,14 @@ def avg (x) do
 def failed_to_participate(x, y, z) do
 x<0.4 || y <0.4 || z < 3
 end
+def calculate_grade(x, y, z, d) do
+0.2 * x + 0.3 * y + 0.2 * z + 0.3 * d
+end
   def percentage_grade(%{homework: homework, labs: labs, midterm: midterm, final: final}) do
     avg_homework = avg(homework)
 
     avg_labs = avg(labs)
-    mark = 0.2 * avg_labs + 0.3 * avg_homework + 0.2 * midterm + 0.3 * final
+    mark = calculate_grade(avg_labs, avg_homework, midterm, final)
     round(mark * 100)
   end
 
@@ -29,7 +32,7 @@ end
     if failed_to_participate(avg_homework, avg_exams, num_labs)do
       "EIN"
     else
-      mark = 0.2 * avg_labs + 0.3 * avg_homework + 0.2 * midterm + 0.3 * final
+      mark = calculate_grade(avg_labs, avg_homework, midterm, final)
 
       cond do
         mark > 0.895 -> "A+"
@@ -60,7 +63,7 @@ end
     if failed_to_participate(avg_homework, avg_exams, num_labs)do
       0
     else
-      mark = 0.2 * avg_labs + 0.3 * avg_homework + 0.2 * midterm + 0.3 * final
+      mark = calculate_grade(avg_labs, avg_homework, midterm, final)
 
       cond do
         mark > 0.895 -> 10
