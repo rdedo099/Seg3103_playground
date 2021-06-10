@@ -1,0 +1,2 @@
+10 Jun 2021 4:21:55 GMT: Log 'EclipseCompiler.txt' opened: 10 Jun 2021 4:21:55 GMT with name C:\Users\Riley\Documents\GitHub\Seg3103_playground\Lab04\tic\test\EclipseCompiler.txt
+10 Jun 2021 4:22:31 GMT: Log 'EclipseCompiler.txt' opened: 10 Jun 2021 4:22:31 GMT with name C:\Users\Riley\Documents\GitHub\Seg3103_playground\Lab04\tic\test\EclipseCompiler.txt
