@@ -1,0 +1,5 @@
+In this lab there were issues with both the grades and the twitter components, tests would not run properly. However code has been completed and followed along. Within the assets folder are some of the results from following the lab.
+
+
+Here is the cmd input I used to run the twitter test:
+java --add-opens java.base/java.lang=ALL-UNNAMED -jar lib/junit-platform-console-standalone-1.7.1.jar -cp dist:lib/easymock-4.3.jar:lib/objenesis-3.2.jar --scan-class-path
