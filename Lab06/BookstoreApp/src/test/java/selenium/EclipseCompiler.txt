@@ -1,0 +1,1 @@
+15 Jul 2021 1:22:13 GMT: Log 'EclipseCompiler.txt' opened: 15 Jul 2021 1:22:13 GMT with name C:\Users\Riley\Documents\GitHub\Seg3103_playground\Lab06\BookstoreApp\src\test\java\selenium\EclipseCompiler.txt
