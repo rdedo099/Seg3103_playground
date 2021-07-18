@@ -81,17 +81,121 @@ class ExampleSeleniumTest {
   }*/
   
   @Test
-  void firsTest() {
+  void AdminLoginTestPositive() {
     driver.get("http://localhost:8080/admin");
     WebElement username = driver.findElement(By.id("loginId"));
     username.sendKeys("admin");
-    WebElement password = driver.findElement(By.id("loginPassword"));
+    WebElement password = driver.findElement(By.id("loginPasswd"));
     password.sendKeys("password");
     WebElement loginButton = driver.findElement(By.id("loginBtn"));
     loginButton.click();
-    String expected = "http://localhost:8080/admin";
-    String current = driver.getCurrentUrl();
-    assertEquals(expected, current);
+    String expected1 = "http://localhost:8080/admin";
+    String current1 = driver.getCurrentUrl();
+    assertEquals(expected1, current1);
     
   }
+  @Test
+  void AdminLoginTestNegative() {//login will not succeed with this attempt
+    driver.get("http://localhost:8080/admin");
+    WebElement username = driver.findElement(By.id("loginId"));
+    username.sendKeys("wrong");
+    WebElement password = driver.findElement(By.id("loginPasswd"));
+    password.sendKeys("info");
+    WebElement loginButton = driver.findElement(By.id("loginBtn"));
+    loginButton.click();
+    String expected1 = "http://localhost:8080/login?error";
+    String current1 = driver.getCurrentUrl();
+    assertEquals(expected1, current1);
+    
+  }
+  @Test
+  void AddBookTestPositive() { //Address positive outcomes of inputting book
+    //Add book test method for this program is not perfect as we cannot 100% guarantee the book is added without seeing the list on its own
+    driver.get("http://localhost:8080/admin");
+    WebElement username = driver.findElement(By.id("loginId"));
+    username.sendKeys("admin");
+    WebElement password = driver.findElement(By.id("loginPasswd"));
+    password.sendKeys("password");
+    WebElement loginButton = driver.findElement(By.id("loginBtn"));
+    loginButton.click();
+    WebElement addBookCategory = driver.findElement(By.id("addBook-category"));
+    addBookCategory.sendKeys("Comedy");
+    WebElement addBookId = driver.findElement(By.id("addBook-id"));
+    addBookId.sendKeys("12345");
+    WebElement addBookTitle = driver.findElement(By.id("addBook-title"));
+    addBookTitle.sendKeys("A Book");
+    WebElement cost = driver.findElement(By.id("cost"));
+    cost.sendKeys("10.99");
+    WebElement addBookButton = driver.findElement(By.name("addBook"));
+    addBookButton.click();
+    String expected2 = "http://localhost:8080/admin";
+    String current2 = driver.getCurrentUrl();
+    assertEquals(expected2, current2);
+    
+  }
+  @Test
+  void AddBookTestNegative() { //Address negative outcomes of inputting book
+    driver.get("http://localhost:8080/admin");
+    WebElement username = driver.findElement(By.id("loginId"));
+    username.sendKeys("admin");
+    WebElement password = driver.findElement(By.id("loginPasswd"));
+    password.sendKeys("password");
+    WebElement loginButton = driver.findElement(By.id("loginBtn"));
+    loginButton.click();
+    WebElement addBookCategory = driver.findElement(By.id("addBook-category"));
+    addBookCategory.sendKeys("");//category is blank, no book will be added
+    WebElement addBookId = driver.findElement(By.id("addBook-id"));
+    addBookId.sendKeys("12345");
+    WebElement addBookTitle = driver.findElement(By.id("addBook-title"));
+    addBookTitle.sendKeys("A Book");
+    WebElement cost = driver.findElement(By.id("cost"));
+    cost.sendKeys("10.99");
+    WebElement addBookButton = driver.findElement(By.name("addBook"));
+    addBookButton.click();
+    String expected2 = "http://localhost:8080/admin";
+    String current2 = driver.getCurrentUrl();
+    assertEquals(expected2, current2);
+    
+  }
+    @Test
+  void CatalogBlankTest() {//catalog search testing - test for blank catalog input
+    driver.get("http://localhost:8080");
+    WebElement catalogue = driver.findElement(By.id("search"));
+    catalogue.sendKeys("");
+    WebElement searchButton = driver.findElement(By.id("searchBtn"));
+    searchButton.click();
+    String expected1 = "http://localhost:8080/catalog";
+    String current1 = driver.getCurrentUrl();
+    assertEquals(expected1, current1);
+    
+  }
+    @Test
+  void CatalogTestNegative() {//catalog search testing - test for catalog input where no book exists
+    driver.get("http://localhost:8080");
+    WebElement catalogue = driver.findElement(By.id("search"));
+    catalogue.sendKeys("Comedy");
+    WebElement searchButton = driver.findElement(By.id("searchBtn"));
+    searchButton.click();
+    String expected1 = "http://localhost:8080/catalog";
+    String current1 = driver.getCurrentUrl();
+    assertEquals(expected1, current1);
+    
+  }
+    @Test
+  void AddToCartTest() {//testing add to cart and the check order
+    driver.get("http://localhost:8080");
+    WebElement catalogue = driver.findElement(By.id("search"));
+    catalogue.sendKeys("");
+    WebElement searchButton = driver.findElement(By.id("searchBtn"));
+    searchButton.click();
+    WebElement orderButton = driver.findElement(By.id("order-hall001")); //Specific order button for book with id hall001
+    orderButton.click(); //next we go to the cart
+    WebElement cartButton = driver.findElement(By.id("cartLink")); 
+    cartButton.click(); 
+    String expected1 = "http://localhost:8080/orderPage";
+    String current1 = driver.getCurrentUrl();
+    assertEquals(expected1, current1);
+    
+  }
+
 }
