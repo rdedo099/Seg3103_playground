@@ -15,6 +15,9 @@ import org.openqa.selenium.safari.SafariDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.support.ui.Select;
+
 
 class ExampleSeleniumTest {
 
@@ -164,8 +167,9 @@ class ExampleSeleniumTest {
     catalogue.sendKeys("");
     WebElement searchButton = driver.findElement(By.id("searchBtn"));
     searchButton.click();
-    String expected1 = "http://localhost:8080/catalog";
-    String current1 = driver.getCurrentUrl();
+    String expected1 = "Marty Hall and Larry Brown";
+    WebElement currentcat = driver.findElement(By.id("authors-hall001"));
+    String current1 = currentcat.getText();
     assertEquals(expected1, current1);
     
   }
@@ -197,5 +201,111 @@ class ExampleSeleniumTest {
     assertEquals(expected1, current1);
     
   }
-
+    @Test
+  void PositiveIncTest() {//testing incrementing item in cart
+    driver.get("http://localhost:8080");
+    WebElement catalogue = driver.findElement(By.id("search"));
+    catalogue.sendKeys("");
+    WebElement searchButton = driver.findElement(By.id("searchBtn"));
+    searchButton.click();
+    WebElement orderButton = driver.findElement(By.id("order-hall001")); //Specific order button for book with id hall001
+    orderButton.click(); //next we go to the cart
+    WebElement cartButton = driver.findElement(By.id("cartLink")); 
+    cartButton.click(); 
+    WebElement inc = driver.findElement(By.id("hall001"));
+    inc.sendKeys("2");//change from 1 to 12
+    WebElement update = driver.findElement(By.name("updateOrder")); 
+    update.click();
+    String expected1 = "$479.40";
+    WebElement currentcost = driver.findElement(By.id("tothall001"));
+    String current1 = currentcost.getText();
+    assertEquals(expected1, current1);
+    
+  }
+    @Test
+  void NegativeIncTest() {//testing incrementing item in cart for 0
+    JavascriptExecutor jsExec = (JavascriptExecutor)driver;
+    driver.get("http://localhost:8080");
+    WebElement catalogue = driver.findElement(By.id("search"));
+    catalogue.sendKeys("");
+    WebElement searchButton = driver.findElement(By.id("searchBtn"));
+    searchButton.click();
+    WebElement orderButton = driver.findElement(By.id("order-hall001")); //Specific order button for book with id hall001
+    orderButton.click(); //next we go to the cart
+    WebElement cartButton = driver.findElement(By.id("cartLink")); 
+    cartButton.click(); 
+    jsExec.executeScript("document.getElementById('hall001').setAttribute('value','0')");//change from 1 to 0
+    WebElement update = driver.findElement(By.name("updateOrder")); 
+    update.click();
+    String expected1 = "$0.00";
+    WebElement currentcost = driver.findElement(By.id("tothall001"));
+    String current1 = currentcost.getText();
+    assertEquals(expected1, current1);
+    
+  }
+    @Test
+  void PositiveCheckoutTest() {//checking out a book
+    driver.get("http://localhost:8080");
+    WebElement catalogue = driver.findElement(By.id("search"));
+    catalogue.sendKeys("");
+    WebElement searchButton = driver.findElement(By.id("searchBtn"));
+    searchButton.click();
+    WebElement orderButton = driver.findElement(By.id("order-hall001")); //Specific order button for book with id hall001
+    orderButton.click(); //next we go to the cart
+    WebElement cartButton = driver.findElement(By.id("cartLink")); 
+    cartButton.click(); 
+    WebElement checkout = driver.findElement(By.name("checkout")); 
+    checkout.click();
+    String expected1 = "$5.19";
+    WebElement currentcost = driver.findElement(By.id("order_taxes"));
+    String current1 = currentcost.getText();
+    assertEquals(expected1, current1);
+    
+  }
+@Test
+  void NegativeCheckoutTest() {//checking out no books
+    driver.get("http://localhost:8080");
+    WebElement catalogue = driver.findElement(By.id("search"));
+    catalogue.sendKeys("");
+    WebElement searchButton = driver.findElement(By.id("searchBtn"));
+    searchButton.click();//NO BOOK IS ADDED
+    WebElement cartButton = driver.findElement(By.id("cartLink")); 
+    cartButton.click(); 
+    WebElement checkout = driver.findElement(By.name("checkout")); 
+    checkout.click();
+    String expected1 = "$0.00";
+    WebElement currentcost = driver.findElement(By.id("order_taxes"));
+    String current1 = currentcost.getText();
+    assertEquals(expected1, current1);
+    
+  }
+@Test
+  void languageTest() {//change language
+    driver.get("http://localhost:8080");
+    Select lang = new Select(driver.findElement(By.id("locales")));
+    lang.selectByVisibleText("French");
+    String expected1 = "Librairie Y'AMAZONE";
+    WebElement titleInFrench = driver.findElement(By.id("title"));
+    String current1 = titleInFrench.getText();
+    assertEquals(expected1, current1);
+    
+  }
+@Test
+  void RemoveBookTest() {//Remove a Book
+    driver.get("http://localhost:8080/admin");
+    WebElement username = driver.findElement(By.id("loginId"));
+    username.sendKeys("admin");
+    WebElement password = driver.findElement(By.id("loginPasswd"));
+    password.sendKeys("password");
+    WebElement loginButton = driver.findElement(By.id("loginBtn"));
+    loginButton.click();
+    WebElement searchButton = driver.findElement(By.id("searchBtn"));
+    searchButton.click();
+    WebElement deleteButton = driver.findElement(By.id("del-hall002"));
+    deleteButton.click();
+    String expected1 = "http://localhost:8080/admin/catalog";
+    String current1 = driver.getCurrentUrl();
+    assertEquals(expected1, current1);
+    
+  }
 }
